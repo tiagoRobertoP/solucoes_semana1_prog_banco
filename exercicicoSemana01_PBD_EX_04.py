@@ -9,3 +9,5 @@ print(str(pes) + " pes equivalem a ")
 print(str(polegadas)+ " polegadas")
 print(str(jardas) + " jardas e ")
 print(str(milhas) + " milhas")
+
+#teste
